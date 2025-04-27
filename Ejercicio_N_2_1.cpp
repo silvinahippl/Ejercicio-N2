@@ -8,7 +8,7 @@ int main()
 int x;
 int y; 
 
-cout <"ingrese el valor de x: ";
+cout <<"ingrese el valor de x: ";
 cin >> x;
 
 cout <<"ingrese el valor de y: ";
