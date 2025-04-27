@@ -1,6 +1,7 @@
-//b) Que imprima en pantalla todos los múltiplos de 6, desde 6 hasta 30 (6, 12, 18, 24 y 30).//
+//b) Que imprima en pantalla todos los múltiplos de 6, desde 6 hasta 30 (6, 12, 18, 24 y 30).
 
 #include <iostream>
+using namespace std;
 
 int main() 
 {
@@ -8,7 +9,7 @@ int main()
 
     for (int i = 6; i <= 30; i += 6) 
 {
-        cout << i;
+        cout << i << " "; //el ultimo es para que haya un espacio entre numeros
     }
     return 0;
 }
