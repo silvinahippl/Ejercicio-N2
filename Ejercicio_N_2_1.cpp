@@ -8,10 +8,10 @@ int main()
 int x;
 int y; 
 
-cout <<"ingrese el valor de x: ";
+cout <<"ingrese el valor de x: "<<endl;
 cin >> x;
 
-cout <<"ingrese el valor de y: ";
+cout <<"ingrese el valor de y: "<<endl;
 cin >> y;
 
 if ( x > y )
