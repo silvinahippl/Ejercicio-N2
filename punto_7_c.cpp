@@ -8,7 +8,7 @@ int numero = 2;
 
 while (numero <=20) //Se ejecuta mientras num sea igual o menos a 20
 {
-cout <<numero <<" "; //" " para espacio entre numeros
+cout <<numero <<" "<<endl; //" " para espacio entre numeros
 numero = numero + 2;
 }
 return 0;
