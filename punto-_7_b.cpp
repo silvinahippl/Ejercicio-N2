@@ -9,7 +9,7 @@ int numero = 10
 
 while(numero >= 1 )// mientras 10 sea igual o menor a 1
 {
-cout << numero<<" "; //imprime numero, " " para espacio entre numeros
+cout << numero<<" "<< endl; //imprime numero, " " para espacio entre numeros
 numero = numero - 1;
 }
 return 0;
