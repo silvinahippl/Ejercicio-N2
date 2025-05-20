@@ -11,7 +11,7 @@ int cuadrado
 while (numero <=16)// mientras 1 sea igual o menor a 16
 {
 cuadrado = numero * numero; // si pongo despues de cout no sabe q valor tiene
-cout <<numero<<"-"<< cuadrado<<endl; //agregue guion y salto de linea al final.
+cout << numero <<"-"<< cuadrado <<endl; //agregue guion y salto de linea al final.
 numero = numero + 1;
 }
 return 0;
