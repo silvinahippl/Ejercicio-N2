@@ -8,7 +8,7 @@ int main()
 int numero = 1
 while(numero<= 10)
 {
-cout<< numero<<" "; //" " para espacio entre numeros
+cout<< numero<<" "<<endl; //" " para espacio entre numeros
 numero = numero + 1; // calculo de dereha a izq
 }
 return 0;
